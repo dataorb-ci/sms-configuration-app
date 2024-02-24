@@ -1,8 +1,7 @@
 {
-  "app_hub_id": "441cad0c-395a-4e93-8f10-475602397371",
   "appType": "APP",
-  "short_name": "sms-configuration",
-  "name": "SMS Configuration",
+  "short_name": "sms-configuration-pro",
+  "name": "SMS Configuration Pro",
   "description": "Configure SMS gateways and manage SMS messages",
   "version": "100.0.44",
   "core_app": true,
